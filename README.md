@@ -9,10 +9,13 @@ Workspace for experimenting with a digital ink input ribbon for use in linux
 
 ## Reference / Prior art / Building Blocks
 
-### Drawing
-- https://github.com/Thesola10/Gtk4-WritePadWidget (alternate/mirror: https://github.com/hmpthcs/Gtk4-WritePadWidget)
+### Drawing only
 - https://github.com/PNDeb/pn_drawing_tests
+
+### Text Recognition / ML
 - https://github.com/MadLadSquad/UntitledIBusHandwriting
+- https://github.com/Thesola10/Gtk4-WritePadWidget (alternate/mirror: https://github.com/hmpthcs/Gtk4-WritePadWidget)
+- https://github.com/PellelNitram/xournalpp_htr
 
 ### Input Method Editor
 (ToDo)
