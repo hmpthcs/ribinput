@@ -7,7 +7,7 @@ Workspace for experimenting with a digital ink input ribbon for use in linux
 ## Status
 (ToDo)
 
-## Reference / Prior art / Building Blocks
+## Reference / Prior Art / Building Blocks
 
 ### Drawing only
 - https://github.com/PNDeb/pn_drawing_tests
@@ -19,6 +19,8 @@ Workspace for experimenting with a digital ink input ribbon for use in linux
 
 ### Input Method Editor
 (ToDo)
+
+### Digital Ink
 
 ### Android Documentation
 (ToDo--but there's quite a bit)
